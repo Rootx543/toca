@@ -5,12 +5,12 @@
     "appkey": "1093e9b35"
   },
   "facebook": {
-    "Banner_active": true,
+    "Banner_active": false,
     "inter_active": false,
     "native_active": true,
-    "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    "banner": "590723969320931_590728779320450",
+    "interstitial": "590723969320931_590728842653777",
+    "native": "590723969320931_590728952653766"
   },
   "admob": {
     "Banner_active": false,
