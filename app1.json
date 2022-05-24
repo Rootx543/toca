@@ -6,7 +6,7 @@
   },
   "facebook": {
     "Banner_active": false,
-    "inter_active": false,
+    "inter_active": true,
     "native_active": true,
     "banner": "590723969320931_590728779320450",
     "interstitial": "590723969320931_590728842653777",
